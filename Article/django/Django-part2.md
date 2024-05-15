@@ -1,3 +1,4 @@
+# Django part2
  ![一个完整的初学者指南Django  - 第2部分](https://simpleisbetterthancomplex.com/media/series/beginners-guide/1.11/part-2/featured.jpg)
 
 
