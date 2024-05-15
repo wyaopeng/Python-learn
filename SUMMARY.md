@@ -92,5 +92,6 @@
 * [使用Python虚拟环境](/Article/advanced/使用Python虚拟环境.md)
 * [Mac中使用virtualenv和virtualenvwrapper](/Article/advanced/Mac中使用virtualenv和virtualenvwrapper.md)
 * [**Django**](/Article/django/Django.md)
-
+    - [Django-part1](/Article/django/Django-part1.md)
+    - [Django-part2](/Article/django/Django-part2.md)
 
